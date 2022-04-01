@@ -1,4 +1,4 @@
-# Fashion-AttGAN: Attribute-Aware Fashion Editing with Multi-Objective GAN
+# Fashion-AttGAN: Attribute-Aware Fashion Editing with VAE+CGAN 
 This repo provides the dataset used in our paper "Fashion-AttGAN: Attribute-Aware Fashion Editing with Multi-Objective GAN" (https://arxiv.org/abs/1904.07460). 
 
 ## Dataset
@@ -24,10 +24,7 @@ Put all images under /data.
 bash train.sh
 ```
 
-## Cite
-To use or cite this dataset, please use the following:
-```
-Qing Ping, Bing Wu, Wanying Ding, Jiangbo Yuan. 2019. Fashion-AttGAN: Attribute-Aware Fashion Editing with Multi-Objective GAN. FFSS-USAD Workshop at CVPR 2019. 
+
 ```
 
 ## Statistics
